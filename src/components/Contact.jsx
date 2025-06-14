@@ -10,7 +10,7 @@ const Contact = () => {
 
     emailjs.sendForm(
       'service_nghz3ns',    // replace
-      'ejs-test-mail-service',   // replace
+      'template_h1p0t67',   // replace
       form.current,
       'wVSilduMgn5L_VGNI'     // replace
     ).then(
